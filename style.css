@@ -1,0 +1,11 @@
+.background{
+    background-image: url("makeup.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    font-size: 25px;
+}
+canvas{
+    border: 3px dashed magenta;
+}
